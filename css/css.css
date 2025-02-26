@@ -1,0 +1,42 @@
+#body
+{
+    background-color: #FA7F72;
+}
+
+.container
+{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form
+{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    height: 50%;
+    width: 20%;
+    padding: 10px;
+}
+
+button {
+    margin-top: 5%;
+    background-color: red;
+    height: 50px;
+    border-radius: 35px;
+    font-size: 30px;
+}
+
+label
+{
+    color: black;
+}
+
+input
+{
+    font-size: 20px;
+}
